@@ -4,11 +4,11 @@ Modified Source Code: https://github.com/melwyncarlo/matplotlib/tree/issue_17424
 
 Issue posted on: https://github.com/matplotlib/matplotlib/issues/17424
 
-Pull-request (PR) posted on: 
+Pull-request (PR) posted on: https://github.com/matplotlib/matplotlib/pull/30598
 
 ---
 
-Video demonstration link: 
+Video demonstration link: https://youtu.be/hwPAciI6TjI
 
 ---
 
